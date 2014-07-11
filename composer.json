@@ -1,0 +1,30 @@
+{
+    "name": "yearbookmachine/phmagick",
+    "type": "library",
+    "version": "6.0.0",
+    "description": "image manipulation with php and ImageMagick",
+    "keywords": ["ImageMagick","Image manipulation", "thumbnail", "resize", "image resize", "gd", "imagemagick", "imagick"],
+    "homepage": "http://www.phmagick.org",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nuno Costa",
+            "email": "nuno@francodacosta.com",
+            "homepage": "http://www.francodacosta.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/yearbookmachine/phmagick"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "phMagick": ""
+        }
+    }
+}
