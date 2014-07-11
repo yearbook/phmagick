@@ -1,5 +1,5 @@
 {
-    "name": "yearbookmachine/phmagick",
+    "name": "ybm/phmagick",
     "type": "library",
     "version": "6.0.0",
     "description": "image manipulation with php and ImageMagick",
